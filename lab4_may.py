@@ -11,7 +11,6 @@ for age in ages:
 #explain it keeps looping itself and i dont have to manually keep checking it
 
 #ticket 2
-# Set up a control variable
 keep_checking = "yes"
 
 while keep_checking == "yes":
